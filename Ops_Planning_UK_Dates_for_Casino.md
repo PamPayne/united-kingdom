@@ -1,2 +1,11 @@
-> **Source:** [Ops Planning UK Dates for Casino.docx](https://dbnsa.sharepoint.com/sites/ComplianceOfficers93/Regulatory Repository/Rest of World/United Kingdom/3. Projects/Ops Planning UK Dates for Casino.docx)
+---
+country: United Kingdom
+document_name: Ops Planning UK Dates for Casino
+source_file: Ops Planning UK Dates for Casino.docx
+extracted_date: 2026-04-30
+jurisdiction: United Kingdom
+---
 
+# Ops Planning UK Dates for Casino
+
+DOCX extraction error: No binary data — DOCX extraction unavailable

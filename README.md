@@ -4,9 +4,7 @@ Markdown versions of regulatory documents for United Kingdom, sourced from the D
 
 ## Documents
 
-| Document | Source File |
-|---|---|
-| [Ops Planning UK Dates For Casino](Ops_Planning_UK_Dates_for_Casino.md) | Ops Planning UK Dates for Casino.docx |
+*Document index will be updated once files are processed.*
 
 ## Source
 
